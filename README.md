@@ -17,4 +17,11 @@
     Complexité :
     O (n^2) car on a deux boucles dans l'algorithme de tri 
     et il n y'a pas de meilleurs cas
+
+
+### Tri par insertion 
+
+    Complexité :
+    O (n^2) car on a deux boucles dans l'algorithme de tri 
+    et il n y'a pas de meilleurs cas aussi
     
