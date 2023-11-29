@@ -1,5 +1,11 @@
 # ALGORTIHME DES TABLEAUX 
 
+<div align="center">
+Ceci a été fait de sorte a ce que les personnes qui ne comprennent pas trop les algos de tri
+on un petit apercu des algos de tri avec une petite explication en commentaire ainsi que
+les complexités des algos avec une petite explication 
+</div>
+
 ## Algo de recherche 
 
 ### Recherche par dichotomie 
