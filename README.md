@@ -34,3 +34,17 @@ les complexités des algos avec une petite explication
     O (n^2) car on a deux boucles dans l'algorithme de tri 
     et il n y'a pas de meilleurs cas aussi
     
+
+### c - Tri bulle
+
+    Explication : 
+    On parcours le tableau de droite a gauche et chaque bulle [ i-1 / i ]
+    est triée. A chaque étape, au moins un élement est bien trié (le plus léger a gauche)
+
+    Complexité :
+    O (n^2) en moyenne 
+    O (n) est le meilleur des cas si le tableau est trié en amont
+    O (n^2) dans le pire des cas
+    
+
+    
