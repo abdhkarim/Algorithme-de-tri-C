@@ -17,7 +17,7 @@ les complexités des algos avec une petite explication
     Dans tous les cas ----> O( log n )  [Meilleure complexité d'ailleurs]
 
 
-## -------------------------------
+## --------------------------------------------------------------------------------------------------------------------
 
 ## II. Algo de tri de tableau
 
