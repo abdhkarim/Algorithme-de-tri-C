@@ -9,6 +9,8 @@ les complexités des algos avec une petite explication
 (Pour ceux qui ont du mal a visualiser les complexités je vous invite a lire ceci : https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
 </div>
 
+## ----------------------------------------------------------------------------------
+
 ## I. Algo de recherche 
 
 ### a - Recherche par dichotomie 
