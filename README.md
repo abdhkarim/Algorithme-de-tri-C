@@ -6,9 +6,9 @@ on un petit apercu des algos de tri avec une petite explication en commentaire a
 les complexités des algos avec une petite explication 
 </div>
 
-## Algo de recherche 
+## I. Algo de recherche 
 
-### Recherche par dichotomie 
+### a - Recherche par dichotomie 
     Cet algo doit etre fait dans un tableau trié.
     Complexité :
     Dans tous les cas ----> O( log n )  [Meilleure complexité d'ailleurs]
@@ -16,16 +16,16 @@ les complexités des algos avec une petite explication
 
 ## -------------------------------
 
-## Algo de tri de tableau
+## II. Algo de tri de tableau
 
-### Tri par sélection 
+### a. Tri par sélection 
 
     Complexité :
     O (n^2) car on a deux boucles dans l'algorithme de tri 
     et il n y'a pas de meilleurs cas
 
 
-### Tri par insertion 
+### b. Tri par insertion 
 
     Complexité :
     O (n^2) car on a deux boucles dans l'algorithme de tri 
