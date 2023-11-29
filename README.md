@@ -60,3 +60,28 @@ les complexités des algos avec une petite explication
     O (n) est le meilleur des cas si le tableau est trié en amont
     O (n^2) dans le pire des cas
     
+### e - Tri rapide
+
+    Explication : 
+    On utilise le principe de diviser pour regner. On utilise un pivot a travers le tableau 
+    on utilise un sous pivot dans les 2 sous tableau et on fait ça jusqu'a qu'il y'a un element
+    ou 0 dans les sous tableaux. Et on tri les sous tableaux triées.
+
+    Complexité :
+    O (n*log(n)) en moyenne 
+    O (n*log(n)) meilleur des cas 
+    O (n^2) dans le pire des cas
+
+### e - Tri fusion
+
+    Explication : 
+    On utilise le même principe de diviser pour regner. On fait des sous tableaux jusqu'a avoir un seul element
+    puis on "remonte" en triant les 2 sous tableaux et ainsi de suite
+
+    Complexité :
+    O (n*log(n)) dans tous les cas
+    Tri rapide et complexité constante a l'instar des autres algorithme de tri
+
+Si vous n'avez toujours pas compris, je vous invite a regarder sur des rubriques internet qui parlent de ca
+
+## -> FIN <-
