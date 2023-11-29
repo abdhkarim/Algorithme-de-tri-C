@@ -1,5 +1,6 @@
+<center>
 # ALGORTIHME DES TABLEAUX 
-
+</center>
 ## Algo de recherche 
 
 ### Recherche par dichotomie 
