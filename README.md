@@ -4,6 +4,9 @@
 Ceci a été fait de sorte a ce que les personnes qui ne comprennent pas trop les algos de tri
 on un petit apercu des algos de tri avec une petite explication en commentaire ainsi que
 les complexités des algos avec une petite explication 
+<br>
+<br>
+(Pour ceux qui ont du mal a visualiser les complexités je vous invite a lire ceci : https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
 </div>
 
 ## I. Algo de recherche 
