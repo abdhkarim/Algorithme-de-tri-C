@@ -18,14 +18,14 @@ les complexités des algos avec une petite explication
 
 ## II. Algo de tri de tableau
 
-### a. Tri par sélection 
+### a - Tri par sélection 
 
     Complexité :
     O (n^2) car on a deux boucles dans l'algorithme de tri 
     et il n y'a pas de meilleurs cas
 
 
-### b. Tri par insertion 
+### b - Tri par insertion 
 
     Complexité :
     O (n^2) car on a deux boucles dans l'algorithme de tri 
