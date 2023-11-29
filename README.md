@@ -37,7 +37,10 @@ les complexités des algos avec une petite explication
 
 ### c - Tri bulle
 
+### d - Tri shaker
+
     Explication : 
+    Meme principe que le tri bulle sauf qu'on le fait dans les 2 sens.
     On parcours le tableau de droite a gauche et chaque bulle [ i-1 / i ]
     est triée. A chaque étape, au moins un élement est bien trié (le plus léger a gauche)
 
